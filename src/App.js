@@ -42,7 +42,7 @@ import Checkbox from '@material-ui/core/Checkbox';
 import Button from '@material-ui/core/Button';
 import Menu from '@material-ui/core/Menu';
 
-//windows2
+//Windows
 
 const drawerWidth = 240;
 
